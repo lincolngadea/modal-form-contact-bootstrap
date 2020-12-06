@@ -6,12 +6,17 @@ header{
   width: 100%;
   min-height: 10vh;
   margin: 2vh auto;
+  padding: 2vh;
   background-color: #fff;
 }
 
 section{
   min-height: 82vh;
   background-color: #fff;
+}
+
+.moda{
+ 
 }
 
 @media (min-width: 576px) {
